@@ -8,5 +8,4 @@ about:
     image-width: 15em
 ---
 
-::: {#bio}
 Hi there! I'm Lucas Castillo. This website is still a work in progress!
