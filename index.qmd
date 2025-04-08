@@ -2,10 +2,15 @@
 title: "Lucas Castillo"
 subtitle: "PhD Student"
 image: images/lucas.jpeg
+toc: false
 about:
     template: jolla
     image-shape: round
     image-width: 15em
+    links:
+    - icon: github
+      text: Github 
+      href: https://github.com/lucas-castillo
 ---
 
 Hi there! I'm Lucas Castillo. This website is still a work in progress!
