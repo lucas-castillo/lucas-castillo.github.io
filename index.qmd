@@ -1,11 +1,12 @@
 ---
-title: "website"
+title: "Lucas Castillo"
+subtitle: "PhD Student"
+image: images/lucas.jpeg
+about:
+    template: jolla
+    image-shape: round
+    image-width: 15em
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+::: {#bio}
+Hi there! I'm Lucas Castillo. This website is still a work in progress!
