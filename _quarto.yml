@@ -10,6 +10,7 @@ website:
     right:
       - href: files/CV.pdf
         text: CV
+  favicon: images/logo.png
 
 format:
   html:
