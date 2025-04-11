@@ -1,7 +1,6 @@
 project:
   type: website
-  resources: 
-    - "CNAME"
+  output-dir: docs
 website:
   title: "Lucas Castillo"
   navbar:
