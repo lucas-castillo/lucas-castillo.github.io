@@ -17,6 +17,3 @@ format:
       light: cosmo
     css: styles.css
     toc: true
-
-editor: visual
-
