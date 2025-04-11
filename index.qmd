@@ -7,10 +7,12 @@ about:
     template: jolla
     image-shape: round
     image-width: 15em
-    links:
-    - icon: github
-      text: Github 
-      href: https://github.com/lucas-castillo
 ---
 
 Hi there! I'm Lucas Castillo. This website is still a work in progress!
+
+[{{< fa brands orcid title="ORCID" >}}](https://orcid.org/0000-0003-0274-0777){target="_blank"} &nbsp; 
+[{{< fa brands google-scholar title="Google Scholar" >}}](https://scholar.google.com/citations?user=mv-U5ccAAAAJ){target="_blank"} &nbsp; 
+[{{< fa brands github title="Github" >}}](https://github.com/lucas-castillo){target="_blank"} &nbsp; 
+[{{< fa brands bluesky title="Bluesky" >}}](https://bsky.app/profile/lcastillo.bsky.social){target="_blank"} &nbsp;
+[{{< fa envelope title="Email Address" >}}](mailto:castillo.lucas@protonmail.com)
