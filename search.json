@@ -5,5 +5,26 @@
     "title": "Lucas Castillo",
     "section": "",
     "text": "Hi there! I’m Lucas Castillo. This website is still a work in progress!"
+  },
+  {
+    "objectID": "index.html#articles",
+    "href": "index.html#articles",
+    "title": "Lucas Castillo",
+    "section": "Articles",
+    "text": "Articles\nSanborn, A. N., Zhu, J.-Q., Spicer, J., León-Villagrá, P., Castillo, L., Falbén, J. K., Li, Y.-X., Tee, A., & Chater, N. (2025). Noise in Cognition: Bug or Feature? Perspectives on Psychological Science, 20(3), 572–589. https://doi.org/10.1177/17456916241258951\nCastillo, L., León-Villagrá, P., Chater, N., & Sanborn, A. N. (2024). Explaining the flaws in human random generation as local sampling with momentum. PLOS Computational Biology, 20(1), 1–24. https://doi.org/10.1371/journal.pcbi.1011739"
+  },
+  {
+    "objectID": "index.html#preprints",
+    "href": "index.html#preprints",
+    "title": "Lucas Castillo",
+    "section": "Preprints",
+    "text": "Preprints\nCastillo, L., León-Villagrá, P., Falbén, J. K., Chater, N., & Sanborn, A. N. (2025a). People Need a Few Seconds to Be Random. https://doi.org/10.31234/osf.io/awg9j_v1\nCastillo, L., León-Villagrá, P., Falbén, J. K., Chater, N., & Sanborn, A. N. (2025b). Random Generation is What Comes to Mind. https://doi.org/10.31234/osf.io/c9xq5_v1\nCastillo, L., Li, Y.-X., & Sanborn, A. N. (2025). The samplr package: A tool for modeling human cognition with sampling algorithms. https://doi.org/10.31234/osf.io/ax8hm_v1\nLi, Y.-X., Falben, J., Castillo, L., Spicer, J., Zhu, J.-Q., Qian, S., Chater, N., & Sanborn, A. N. (2025, February). Does utility bias mental simulations of risky events? https://doi.org/10.31234/osf.io/awdr7_v1\nFalbén, J., Castillo, L., León-Villagrá, P., Chater, N., & Sanborn, A. N. (2024, November). Biased mind or biased world? Assessing the accuracy of cultural beliefs that underlie social judgments. https://doi.org/10.31234/osf.io/5hdbp\nLeón-Villagrá, P., Castillo, L., Falbén, J., Chater, N., & Sanborn, A. N. (2024, October). Eliciting Beliefs with Random Generation Tasks. https://doi.org/10.31234/osf.io/687au"
+  },
+  {
+    "objectID": "index.html#conference-proceedings",
+    "href": "index.html#conference-proceedings",
+    "title": "Lucas Castillo",
+    "section": "Conference Proceedings",
+    "text": "Conference Proceedings\nLi, Y.-X., Falbén, J. K., Castillo, L., Spicer, J., Zhu, J.-Q., Chater, N., & Sanborn, A. N. (2024). Probability, but not utility, influences repeated mental simulations of lotteries. Proceedings of the Annual Meeting of the Cognitive Science Society, 46. https://escholarship.org/uc/item/2ps2t4sz\nValentin, S., Castillo, L., Sanborn, A. N., & Lucas, C. G. (2024). Distinguishing Between Process Models of Causal Learning. Proceedings of the Annual Meeting of the Cognitive Science Society, 46. https://escholarship.org/uc/item/2p43j2cw\nLeón-Villagrá, P., Castillo, L., Chater, N., & Sanborn, A. N. (2022). Eliciting Human Beliefs using Random Generation. Proceedings of the Annual Meeting of the Cognitive Science Society, 44. https://escholarship.org/uc/item/88k526dj\nCastillo, L., León-Villagrá, P., Chater, N., & Sanborn, A. N. (2021). Local Sampling with Momentum Accounts for Human Random Sequence Generation. Proceedings of the Annual Meeting of the Cognitive Science Society, 43. https://escholarship.org/uc/item/3gz154kg"
   }
 ]
