@@ -7,9 +7,11 @@ website:
     left:
       - href: index.qmd
         text: Home
+      # - href: blog.qmd
     right:
       - href: files/CV.pdf
         text: CV
+    search: false
   favicon: images/logo.png
 
 format:
