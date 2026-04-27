@@ -1,6 +1,6 @@
 ---
 title: "Lucas Castillo"
-subtitle: "PhD Student"
+subtitle: "Research Fellow"
 image: images/lucas.jpeg
 toc: false
 about:
@@ -17,8 +17,13 @@ Hi there! I'm Lucas Castillo. This website is still a work in progress!
 [{{< fa brands bluesky title="Bluesky" >}}](https://bsky.app/profile/lcastillo.bsky.social){target="_blank"} &nbsp;
 [{{< fa envelope title="Email Address" >}}](mailto:castillo.lucas@protonmail.com)
 
+# Professional Roles
+- **2026 onwards**: *Research Fellow* at the University of Warwick. 
+
 # Education
-- **2021 - 2025**: *PhD in Psychology* at the University of Warwick. Supervisor: Prof. Adam Sanborn
+- **2021 - 2025**: *PhD in Psychology* at the University of Warwick.
+  - Supervisor: Prof. Adam Sanborn
+  - Thesis title: *A local sampling account of random generation*. ([PDF](https://wrap.warwick.ac.uk/id/eprint/199089/1/WRAP_Theses_Castillo_2025.pdf)) 
 - **2019 - 2020**: *MSc Cognitive and Decision Sciences* at UCL
 - **2012 - 2016**: *BSc in Psychology* at Universidad de Sevilla, Spain
 
