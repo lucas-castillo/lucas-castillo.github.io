@@ -30,6 +30,10 @@ Hi there! I'm Lucas Castillo. This website is still a work in progress!
 
 # Publications
 ## Articles
+**Castillo, L.**, León-Villagrá, P., Falbén, J. K., Chater, N., & Sanborn,
+A. N. (2026). *Random Generation is What Comes to Mind in Naturalistic Settings*. *Cognition*. In press.
+<https://doi.org/10.31234/osf.io/c9xq5>
+
 Sanborn, A. N., Zhu, J.-Q., Spicer, J., León-Villagrá, P., **Castillo, L.**,
 Falbén, J. K., Li, Y.-X., Tee, A., & Chater, N. (2025). Noise in
 Cognition: Bug or Feature? *Perspectives on Psychological Science*,
@@ -42,12 +46,8 @@ momentum. *PLOS Computational Biology*, *20*(1), 1–24.
 
 ## Preprints
 **Castillo, L.**, León-Villagrá, P., Falbén, J. K., Chater, N., & Sanborn,
-A. N. (2025a). *People Need a Few Seconds to Be Random*.
+A. N. (2025). *People Need a Few Seconds to Be Random*.
 <https://doi.org/10.31234/osf.io/awg9j_v1>
-
-**Castillo, L.**, León-Villagrá, P., Falbén, J. K., Chater, N., & Sanborn,
-A. N. (2025b). *Random Generation is What Comes to Mind*.
-<https://doi.org/10.31234/osf.io/c9xq5_v1>
 
 **Castillo, L.**, Li, Y.-X., & Sanborn, A. N. (2025). *The samplr package: A
 tool for modeling human cognition with sampling algorithms*.
